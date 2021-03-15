@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jlcalvano
-- 👀 I’m interested in Business, Technology and Travel
+- 👀 I’m interested in Business, Personal Finance, Technology and Culture
 - 🌱 I’m currently learning Javascript, Node.js and React
 - 📫 How to reach me DM on Linkedin: https://www.linkedin.com/in/jamescalvano/
 
