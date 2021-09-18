@@ -1,6 +1,6 @@
 - 👋 Hi, I’m James Calvano @jlcalvano
 - 👀 I’m interested in Business, Personal Finance, Technology and Culture
-- 🌱 I’m currently learning Javascript, Node.js and React
+- 🌱 I’m currently learning Javascript, Node.js, advanced CSS and React
 - 📫 How to reach me DM on Linkedin: https://www.linkedin.com/in/jamescalvano/
 
 <!---
